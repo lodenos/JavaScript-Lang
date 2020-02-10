@@ -1,5 +1,18 @@
 # JavaScript-Lang
 ## Introduction
+
+https://javascript.info
+
+Different engines have different “codenames”. For example:
+
+V8 - In Google Chrome & Opera
+SpiderMonkey  - In FireFox
+
+https://javascript.info/strict-mode
+
+
+
+
 https://www.edureka.co/blog/interview-questions/javascript-interview-questions
 https://hackr.io/blog/javascript-interview-questions
 https://dev.to/macmacky/70-javascript-interview-questions-5gfi
